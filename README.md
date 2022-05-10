@@ -13,4 +13,4 @@ Mr.Abdur Raheem.K,CSE<br></br>
 Co-ordinating Staff:<br></br>
 Dr.Albert Mayan M.E,Ph.D<br></br>
 Dr.S.Prince Mary M.E,Ph.D<br></br>
-Ms.Anto PRaveena M.E,(Ph.D)<br></br>
+Ms.Anto Praveena M.E,(Ph.D)<br></br>
